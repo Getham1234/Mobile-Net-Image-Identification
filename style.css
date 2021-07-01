@@ -1,0 +1,75 @@
+body{
+    background-color: lightpink;
+    font-family: 'Special Elite', cursive;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.header_div{
+    background-color:  white;
+    color:  red;
+}
+
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    width: 700px;
+    box-shadow: 5px 5px 18px whitesmoke;
+    margin-left: 15px;
+}
+
+.main_div label{
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(211, 210, 210);
+}
+
+#cammera, #snapshot{
+    border: 3px ridge rgb(214, 214, 249);
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 10px gainsboro;
+}
+
+.main_div button{
+    margin-top: 10px;
+    border: 3px solid ivory;
+    box-shadow: 5px 5px 10px silver;
+    width: 300px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+    text-align: left;
+    font-size: 20px;
+    width: 100%;
+}
+
+.footer_div h4{
+    background-color: rgb(200, 162, 162);
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 1px 1px 20px rgb(167, 145, 152);
+    width: 100%;
+}
+
+.footer_div img{
+    width: 100px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: white;
+    color: grey;
+    width: 100%;
+    line-height: 3px;
+    text-align: center;
+    bottom: 0px;
+}
